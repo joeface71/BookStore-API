@@ -21,8 +21,7 @@ using BookStore_API.Services;
 namespace BookStore_API
 {
     public class Startup
-    {
-        //test
+    {        
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
