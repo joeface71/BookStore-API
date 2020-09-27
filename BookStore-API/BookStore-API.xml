@@ -4,23 +4,41 @@
         <name>BookStore-API</name>
     </assembly>
     <members>
-        <member name="T:BookStore_API.Controllers.HomeController">
+        <member name="T:BookStore_API.Contracts.HomeController">
             <summary>
             This is a bookstore api controller
             </summary>
         </member>
-        <member name="M:BookStore_API.Controllers.HomeController.Get">
+        <member name="M:BookStore_API.Contracts.HomeController.Get">
             <summary>
             Get Values
             </summary>
             <returns></returns>
         </member>
-        <member name="M:BookStore_API.Controllers.HomeController.Get(System.Int32)">
+        <member name="M:BookStore_API.Contracts.HomeController.Get(System.Int32)">
             <summary>
             Get values by id
             </summary>
             <param name="id"></param>
             <returns></returns>
+        </member>
+        <member name="T:BookStore_API.Controllers.AuthorsController">
+            <summary>
+            Endpoint used to interact with the Authors in the book store's database
+            </summary>
+        </member>
+        <member name="M:BookStore_API.Controllers.AuthorsController.GetAuthors">
+            <summary>
+            Get all authors
+            </summary>
+            <returns>List of authors</returns>
+        </member>
+        <member name="M:BookStore_API.Controllers.AuthorsController.GetAuthor(System.Int32)">
+            <summary>
+            Get an author by Id
+            </summary>
+            <param name="id"></param>
+            <returns>An author's record</returns>
         </member>
     </members>
 </doc>
