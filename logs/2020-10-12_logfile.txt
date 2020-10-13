@@ -1,0 +1,52 @@
+2020-10-12 16:23:20.5030 INFO Author submission was attempted
+2020-10-12 16:23:20.6492 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-10-12 16:25:19.0663 INFO Author submission was attempted
+2020-10-12 16:25:19.1493 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-10-12 16:26:59.9573 INFO Author submission was attempted
+2020-10-12 16:27:01.0841 INFO Author created
+2020-10-12 17:06:14.1473 INFO Author with id: 1 Update attempted
+2020-10-12 17:06:14.2313 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-10-12 17:07:16.8473 INFO Author with id: 1 Update attempted
+2020-10-12 17:07:17.8202 INFO Author with id: 1 successfully created
+2020-10-12 17:07:43.8886 INFO Attempted to get all authors.
+2020-10-12 17:07:44.0878 INFO Successfully got all authors
+2020-10-12 17:08:36.0335 INFO Author submission was attempted
+2020-10-12 17:08:36.1122 INFO Author created
+2020-10-12 17:08:43.8869 INFO Attempted to get all authors.
+2020-10-12 17:08:43.9033 INFO Successfully got all authors
+2020-10-12 17:09:33.0906 INFO Attempted to get author with id: 2
+2020-10-12 17:09:33.1857 INFO Successfully got author with id: 2
+2020-10-12 17:23:58.3208 INFO Attempted to get author with id: 2
+2020-10-12 17:23:59.3559 INFO Successfully got author with id: 2
+2020-10-12 17:24:07.4664 INFO Author with id: 1 Delete attempted
+2020-10-12 17:24:07.6185 INFO Author with id: 1 was successfully deleted
+2020-10-12 17:24:14.5509 INFO Attempted to get all authors.
+2020-10-12 17:24:14.5926 INFO Successfully got all authors
+2020-10-12 17:24:42.7151 INFO Attempted to get author with id: 1
+2020-10-12 17:24:42.7341 WARN Author with id: 1 was not found
+2020-10-12 17:25:10.0673 INFO Author submission was attempted
+2020-10-12 17:25:10.1418 INFO Author created
+2020-10-12 17:25:18.5855 INFO Attempted to get all authors.
+2020-10-12 17:25:18.6009 INFO Successfully got all authors
+2020-10-12 17:35:16.1767 INFO Attempted to get all authors.
+2020-10-12 17:35:17.1569 INFO Successfully got all authors
+2020-10-12 17:35:46.2901 INFO Author with id: 3 Update attempted
+2020-10-12 17:35:46.5270 INFO Author with id: 3 successfully created
+2020-10-12 17:35:50.6686 INFO Attempted to get all authors.
+2020-10-12 17:35:50.6926 INFO Successfully got all authors
+2020-10-12 17:36:02.5360 INFO Author with id: 3 Delete attempted
+2020-10-12 17:36:02.5908 INFO Author with id: 3 was successfully deleted
+2020-10-12 17:36:09.8291 INFO Attempted to get all authors.
+2020-10-12 17:36:09.8456 INFO Successfully got all authors
