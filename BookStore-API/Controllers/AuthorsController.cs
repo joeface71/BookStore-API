@@ -71,7 +71,7 @@ namespace BookStore_API.Controllers
                 var author = await _authorRepository.FindById(id);
                 if (author == null)
                 {
-                    _logger.LogWarn($"Author with id: {id} was not found");
+                    _logger.LogWarn($"Failed to retrieve record for id: {id}");
                     return NotFound();
                 }
                 var response = _mapper.Map<AuthorDTO>(author);
