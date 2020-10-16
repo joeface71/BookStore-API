@@ -125,6 +125,96 @@ namespace BookStore_API.Controllers
             }
         }
 
+        /// <summary>
+        /// Updates book by id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="bookDTO"></param>
+        /// <returns></returns>
+        [HttpPut("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public async Task<IActionResult> Update(int id, [FromBody] BookUpdateDTO bookDTO)
+        {
+            var location = GetControllerActionNames();
+            try
+            {
+                _logger.LogInfo($"{location}: Update attempted on record with id: {id}");
+                if (id < 1 || bookDTO == null || id != bookDTO.Id)
+                {
+                    _logger.LogWarn($"{location}: Update failed with bad data - id: {id}");
+                    return BadRequest();
+                }
+                var isExists = await _bookRepository.isExists(id);
+                if (!isExists)
+                {
+                    _logger.LogWarn($"{location}: Failed to retrieve record with id: {id}");
+                    return NotFound();
+                }
+                if (!ModelState.IsValid)
+                {
+                    _logger.LogWarn($"{location}: Data was incomplete");
+                    return BadRequest(ModelState);
+                }
+                var book = _mapper.Map<Book>(bookDTO);
+                var isSuccess = await _bookRepository.Update(book);
+                if (!isSuccess)
+                {
+                    return InternalError($"{location}: Update failed");
+                }
+                _logger.LogInfo($"{location}: Successfully update book with id: {id}");
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+                return InternalError($"{location}: {e.Message} - {e.InnerException}");
+            }
+        }
+
+        /// <summary>
+        /// Removes a book by id
+        /// </summary>
+        /// <param name="id"/>
+        /// <returns></returns>
+        [HttpDelete("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var location = GetControllerActionNames();
+            try
+            {
+                _logger.LogInfo($"{location}: Delete attempted on book with id: {id}");
+                if (id < 1)
+                {
+                    _logger.LogWarn($"{location}: Delete failed with bad data - id: {id}");
+                    return BadRequest();
+                }
+                var isExists = await _bookRepository.isExists(id);
+                if (!isExists)
+                {
+                    _logger.LogWarn($"{location}: Unable to find book with id: {id}");
+                    return NotFound();
+                }
+                var book = await _bookRepository.FindById(id);
+                var isSuccess = await _bookRepository.Delete(book);
+                if (!isSuccess)
+                {
+                    return InternalError($"{location}: Delete failed for id: {id}");
+                }
+                _logger.LogInfo($"{location}: Delete success on book with id: {id}");
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+                return InternalError($"{location}: {e.Message} - {e.InnerException}");
+            }
+        }
+
+
         private string GetControllerActionNames()
         {
             var controller = ControllerContext.ActionDescriptor.ControllerName;

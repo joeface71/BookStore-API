@@ -26,3 +26,47 @@ Error Number:547,State:0,Class:16
 2020-10-16 16:28:38.1600 INFO Books - Create: BookStore_API.Data.Book
 2020-10-16 16:29:15.7111 INFO Authors - GetAuthor: Attempted to get author with id: 2
 2020-10-16 16:29:15.9573 INFO Authors - GetAuthor: Successfully got author with id: 2
+2020-10-16 18:38:40.7004 INFO Books - Update: Update attempted on record with id: 2
+2020-10-16 18:38:41.8342 INFO Books - Update: Successfully update book with id: 2
+2020-10-16 18:38:52.0208 INFO Authors - GetAuthors: Attempted call
+2020-10-16 18:38:52.1080 INFO Authors - GetAuthors: Successful
+2020-10-16 18:39:05.2571 INFO Authors - GetAuthors: Attempted call
+2020-10-16 18:39:05.2797 INFO Authors - GetAuthors: Successful
+2020-10-16 18:39:18.1613 INFO Authors - GetAuthor: Attempted to get author with id: 2
+2020-10-16 18:39:18.2063 INFO Authors - GetAuthor: Successfully got author with id: 2
+2020-10-16 18:39:58.9457 INFO Books - Update: Update attempted on record with id: 2
+2020-10-16 18:39:58.9740 INFO Books - Update: Successfully update book with id: 2
+2020-10-16 18:41:36.2990 INFO Books - Update: Update attempted on record with id: 2
+2020-10-16 18:41:36.3358 INFO Books - Update: Successfully update book with id: 2
+2020-10-16 18:42:49.7922 INFO Books - GetBooks: attempted call
+2020-10-16 18:42:49.9639 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-10-16 18:43:04.9452 INFO Books - GetBooks: attempted call
+2020-10-16 18:43:05.0387 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-10-16 18:43:26.2801 INFO Books - Create: Create Attempted
+2020-10-16 18:43:26.3564 INFO Books - Create: Creation successful
+2020-10-16 18:43:26.3564 INFO Books - Create: BookStore_API.Data.Book
+2020-10-16 18:43:46.4271 INFO Books - GetBooks: attempted call
+2020-10-16 18:43:46.5514 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-10-16 18:44:51.7113 INFO Books - GetBooks: attempted call
+2020-10-16 18:44:51.8143 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-10-16 18:45:13.4981 INFO Books - GetBooks: attempted call
+2020-10-16 18:45:13.5849 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-10-16 18:45:54.8595 INFO Books - GetBooks: attempted call
+2020-10-16 18:45:54.9589 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-10-16 18:47:54.5273 INFO Books - Create: Create Attempted
+2020-10-16 18:47:54.5517 INFO Books - Create: Creation successful
+2020-10-16 18:47:54.5642 INFO Books - Create: BookStore_API.Data.Book
+2020-10-16 18:48:26.4193 INFO Books - GetBooks: attempted call
+2020-10-16 18:48:26.5046 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-10-16 18:49:38.4408 INFO Books - GetBook: attempted call for id: 2
+2020-10-16 18:49:38.5463 ERROR Books - GetBook: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-10-16 18:49:46.9385 INFO Books - GetBook: attempted call for id: 2
+2020-10-16 18:49:47.0218 ERROR Books - GetBook: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-10-16 18:50:34.2926 INFO Books - GetBook: attempted call for id: 2
+2020-10-16 18:50:34.3831 ERROR Books - GetBook: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-10-16 18:58:19.8259 INFO Books - GetBooks: attempted call
+2020-10-16 18:58:20.8343 INFO Books - GetBooks: Successful
+2020-10-16 19:18:06.2160 INFO Books - Delete: Delete attempted on book with id: 2
+2020-10-16 19:18:07.3713 INFO Books - Delete: Delete success on book with id: 2
+2020-10-16 19:18:15.9207 INFO Books - GetBooks: attempted call
+2020-10-16 19:18:15.9990 INFO Books - GetBooks: Successful
