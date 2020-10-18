@@ -1,0 +1,2 @@
+2020-10-18 16:18:06.3158 INFO Users - Login: Login attempted from user admin 
+2020-10-18 16:18:06.5008 INFO Users - Login: admin Successfully Authenticated
