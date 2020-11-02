@@ -1,0 +1,98 @@
+2020-11-02 15:01:54.9766 INFO Users - Login: Login attempted from user admin 
+2020-11-02 15:01:55.1938 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 15:53:57.7226 INFO Users - Login: Login attempted from user admin 
+2020-11-02 15:53:57.9173 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 15:53:58.0348 ERROR Users - Login: String reference not set to an instance of a String. (Parameter 's') - 
+2020-11-02 15:54:13.4038 INFO Users - Login: Login attempted from user admin 
+2020-11-02 15:54:13.4390 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 15:54:13.5163 ERROR Users - Login: String reference not set to an instance of a String. (Parameter 's') - 
+2020-11-02 15:54:40.3210 INFO Users - Login: Login attempted from user admin 
+2020-11-02 15:54:40.3715 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 15:54:40.4453 ERROR Users - Login: String reference not set to an instance of a String. (Parameter 's') - 
+2020-11-02 15:54:59.1026 INFO Users - Login: Login attempted from user admin 
+2020-11-02 15:54:59.2920 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 15:54:59.4060 ERROR Users - Login: String reference not set to an instance of a String. (Parameter 's') - 
+2020-11-02 15:56:10.6761 INFO Users - Login: Login attempted from user admin 
+2020-11-02 15:56:52.9440 INFO Users - Login: Login attempted from user admin 
+2020-11-02 15:56:53.1464 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 15:58:13.9438 INFO Users - Login: Login attempted from user admin 
+2020-11-02 15:58:14.1358 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 15:58:58.5669 INFO Users - Login: Login attempted from user admin 
+2020-11-02 15:58:58.7594 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 15:58:58.8818 ERROR Users - Login: String reference not set to an instance of a String. (Parameter 's') - 
+2020-11-02 16:00:03.6429 INFO Users - Login: Login attempted from user admin 
+2020-11-02 16:00:03.6856 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 16:00:49.0971 ERROR Users - Login: String reference not set to an instance of a String. (Parameter 's') - 
+2020-11-02 16:00:52.7693 INFO Users - Login: Login attempted from user admin 
+2020-11-02 16:00:52.8281 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 16:02:22.1756 INFO Users - Login: Login attempted from user admin 
+2020-11-02 16:02:22.3744 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 16:03:53.4416 INFO Users - Login: Login attempted from user admin 
+2020-11-02 16:03:53.6391 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 16:21:21.5840 INFO Authors - GetAuthors: Attempted call
+2020-11-02 16:21:21.7131 INFO Authors - GetAuthors: Successful
+2020-11-02 16:21:46.8866 INFO Authors - GetAuthor: Attempted to get author with id: 2
+2020-11-02 16:21:46.9324 INFO Authors - GetAuthor: Successfully got author with id: 2
+2020-11-02 16:42:38.5535 INFO Authors - GetAuthor: Attempted to get author with id: 2
+2020-11-02 16:42:38.6760 INFO Authors - GetAuthor: Successfully got author with id: 2
+2020-11-02 17:07:12.6069 INFO Users - Login: Login attempted from user admin 
+2020-11-02 17:07:12.7652 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 17:07:44.3269 INFO Users - Login: Login attempted from user Customer1 
+2020-11-02 17:07:44.3719 INFO Users - Login: Customer1 Successfully Authenticated
+2020-11-02 17:10:46.9474 INFO Users - Login: Login attempted from user admin 
+2020-11-02 17:10:46.9875 WARN Users - Login: admin Not Authorized
+2020-11-02 17:11:30.4183 INFO Users - Login: Login attempted from user admin 
+2020-11-02 17:11:30.4750 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 17:11:54.9259 INFO Users - Login: Login attempted from user admin 
+2020-11-02 17:11:54.9715 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 17:12:43.9696 INFO Users - Login: Login attempted from user admin 
+2020-11-02 17:12:44.0216 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 17:13:04.4171 INFO Users - Login: Login attempted from user Customer1 
+2020-11-02 17:13:04.4600 INFO Users - Login: Customer1 Successfully Authenticated
+2020-11-02 17:14:56.4062 INFO Users - Login: Login attempted from user admin 
+2020-11-02 17:14:56.4585 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 17:51:09.9295 INFO Users - Login: Login attempted from user admin 
+2020-11-02 17:51:09.9991 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 17:54:32.8034 INFO Users - Login: Login attempted from user admin 
+2020-11-02 17:54:32.9956 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 18:00:29.6159 INFO Users - Login: Login attempted from user admin 
+2020-11-02 18:00:29.8155 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 18:10:18.8665 INFO Users - Login: Login attempted from user admin 
+2020-11-02 18:10:19.0541 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 18:16:00.9668 INFO Users - Login: Login attempted from user admin 
+2020-11-02 18:16:01.0030 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 18:17:03.9341 INFO Authors - Create: Create Attempted
+2020-11-02 18:17:04.1213 INFO Authors - Create: Author created
+2020-11-02 18:17:04.1294 INFO Authors - Create: BookStore_API.Data.Author
+2020-11-02 18:18:00.9780 INFO Authors - Create: Create Attempted
+2020-11-02 18:18:01.0026 INFO Authors - Create: Author created
+2020-11-02 18:18:01.0110 INFO Authors - Create: BookStore_API.Data.Author
+2020-11-02 18:18:25.5005 INFO Authors - GetAuthors: Attempted call
+2020-11-02 18:18:25.5454 INFO Authors - GetAuthors: Successful
+2020-11-02 18:19:31.8644 INFO Users - Login: Login attempted from user Customer1 
+2020-11-02 18:19:32.0527 INFO Users - Login: Customer1 Successfully Authenticated
+2020-11-02 18:20:03.2563 INFO Users - Login: Login attempted from user admin 
+2020-11-02 18:20:03.3007 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 18:20:42.7436 INFO Authors - Create: Create Attempted
+2020-11-02 18:20:42.9223 INFO Authors - Create: Author created
+2020-11-02 18:20:42.9307 INFO Authors - Create: BookStore_API.Data.Author
+2020-11-02 18:27:28.8145 INFO Authors - GetAuthor: Attempted to get author with id: 5
+2020-11-02 18:27:28.8731 INFO Authors - GetAuthor: Successfully got author with id: 5
+2020-11-02 18:28:28.9954 INFO Users - Login: Login attempted from user admin 
+2020-11-02 18:28:29.0398 INFO Users - Login: admin Successfully Authenticated
+2020-11-02 18:28:51.1089 INFO Author with id: 5 Update attempted
+2020-11-02 18:28:51.1193 WARN Author update failed with bad data
+2020-11-02 18:30:06.9438 INFO Author with id: 5 Update attempted
+2020-11-02 18:30:07.0004 INFO Author with id: 5 successfully created
+2020-11-02 18:30:30.8535 INFO Authors - GetAuthors: Attempted call
+2020-11-02 18:30:30.8898 INFO Authors - GetAuthors: Successful
+2020-11-02 18:31:06.3551 INFO Author with id: 2 Update attempted
+2020-11-02 18:31:06.3807 INFO Author with id: 2 successfully created
+2020-11-02 18:31:16.2072 INFO Authors - GetAuthors: Attempted call
+2020-11-02 18:31:16.2339 INFO Authors - GetAuthors: Successful
+2020-11-02 18:31:42.0862 INFO Users - Login: Login attempted from user Customer1 
+2020-11-02 18:31:42.1342 INFO Users - Login: Customer1 Successfully Authenticated
+2020-11-02 18:32:41.8674 INFO Author with id: 5 Delete attempted
+2020-11-02 18:32:41.9143 INFO Author with id: 5 was successfully deleted
+2020-11-02 18:32:51.6292 INFO Authors - GetAuthors: Attempted call
+2020-11-02 18:32:51.6474 INFO Authors - GetAuthors: Successful
