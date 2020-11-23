@@ -1,0 +1,27 @@
+2020-11-11 13:46:14.1387 INFO Users - Register: Registration attempted for joefacenda@yahoo.com 
+2020-11-11 13:46:14.2022 ERROR Users - Register: PasswordRequiresNonAlphanumeric - Passwords must have at least one non alphanumeric character.
+2020-11-11 13:46:14.2022 ERROR Users - Register: PasswordRequiresLower - Passwords must have at least one lowercase ('a'-'z').
+2020-11-11 13:46:14.2207 ERROR Users - Register: PasswordRequiresUpper - Passwords must have at least one uppercase ('A'-'Z').
+2020-11-11 13:46:14.2207 ERROR Users - Register: joefacenda@yahoo.com User Registration Attempt Failed
+2020-11-11 13:50:55.3566 INFO Users - Register: Registration attempted for joefacenda@yahoo.com 
+2020-11-11 13:50:55.3913 ERROR Users - Register: PasswordRequiresNonAlphanumeric - Passwords must have at least one non alphanumeric character.
+2020-11-11 13:50:55.4030 ERROR Users - Register: PasswordRequiresLower - Passwords must have at least one lowercase ('a'-'z').
+2020-11-11 13:50:55.4030 ERROR Users - Register: PasswordRequiresUpper - Passwords must have at least one uppercase ('A'-'Z').
+2020-11-11 13:50:55.4194 ERROR Users - Register: joefacenda@yahoo.com User Registration Attempt Failed
+2020-11-11 13:51:47.8852 INFO Users - Register: Registration attempted for joefacenda@yahoo.com 
+2020-11-11 13:51:47.9095 ERROR Users - Register: PasswordRequiresNonAlphanumeric - Passwords must have at least one non alphanumeric character.
+2020-11-11 13:51:47.9228 ERROR Users - Register: PasswordRequiresLower - Passwords must have at least one lowercase ('a'-'z').
+2020-11-11 13:51:47.9365 ERROR Users - Register: PasswordRequiresUpper - Passwords must have at least one uppercase ('A'-'Z').
+2020-11-11 13:51:47.9510 ERROR Users - Register: joefacenda@yahoo.com User Registration Attempt Failed
+2020-11-11 13:52:06.1514 INFO Users - Register: Registration attempted for joefacenda@yahoo.com 
+2020-11-11 13:52:06.1629 ERROR Users - Register: PasswordRequiresNonAlphanumeric - Passwords must have at least one non alphanumeric character.
+2020-11-11 13:52:06.1710 ERROR Users - Register: PasswordRequiresLower - Passwords must have at least one lowercase ('a'-'z').
+2020-11-11 13:52:06.1710 ERROR Users - Register: PasswordRequiresUpper - Passwords must have at least one uppercase ('A'-'Z').
+2020-11-11 13:52:06.1880 ERROR Users - Register: joefacenda@yahoo.com User Registration Attempt Failed
+2020-11-11 13:54:39.7612 INFO Users - Register: Registration attempted for joefacenda@yahoo.com 
+2020-11-11 13:56:01.6842 INFO Users - Register: Registration attempted for joefacenda@yahoo.com 
+2020-11-11 13:59:26.9983 INFO Users - Register: Registration attempted for joefacenda@yahoo.com 
+2020-11-11 13:59:27.1169 ERROR Users - Register: DuplicateUserName - User name 'joefacenda@yahoo.com' is already taken.
+2020-11-11 13:59:27.1254 ERROR Users - Register: joefacenda@yahoo.com User Registration Attempt Failed
+2020-11-11 13:59:41.8978 INFO Users - Register: Registration attempted for joefacenda1@yahoo.com 
+2020-11-11 14:00:18.1019 INFO Users - Register: Registration attempted for joefacenda2@yahoo.com 
