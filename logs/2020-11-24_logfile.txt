@@ -1,0 +1,83 @@
+2020-11-24 13:08:18.4021 INFO Users - Login: Login attempted from user joefacenda@yahoo.com 
+2020-11-24 13:08:18.5635 WARN Users - Login: joefacenda@yahoo.com Not Authorized
+2020-11-24 13:13:22.5581 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:13:22.8821 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:14:37.8373 INFO Users - Login: Login attempted from user joefacenda@yahoo.com 
+2020-11-24 13:14:37.9263 WARN Users - Login: joefacenda@yahoo.com Not Authorized
+2020-11-24 13:15:02.2369 INFO Users - Login: Login attempted from user joefacenda@yahoo.com 
+2020-11-24 13:15:02.2894 WARN Users - Login: joefacenda@yahoo.com Not Authorized
+2020-11-24 13:16:50.6251 INFO Users - Register: Registration attempted for joefacenda3@yahoo.com 
+2020-11-24 13:17:18.3021 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:17:18.5269 INFO Users - Login: joefacenda3@yahoo.com Successfully Authenticated
+2020-11-24 13:21:59.0236 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:21:59.0236 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:21:59.4424 INFO Users - Login: joefacenda3@yahoo.com Successfully Authenticated
+2020-11-24 13:21:59.4424 INFO Users - Login: joefacenda3@yahoo.com Successfully Authenticated
+2020-11-24 13:26:06.0607 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:26:06.0607 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:26:06.6126 INFO Users - Login: joefacenda3@yahoo.com Successfully Authenticated
+2020-11-24 13:26:06.6126 INFO Users - Login: joefacenda3@yahoo.com Successfully Authenticated
+2020-11-24 13:27:06.8681 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:27:06.9293 INFO Users - Login: joefacenda3@yahoo.com Successfully Authenticated
+2020-11-24 13:33:43.2909 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:33:43.5132 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:34:01.7906 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:34:01.8354 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:34:04.3754 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:34:04.3951 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:34:11.8865 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:34:11.9094 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:34:26.3682 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:34:26.6235 INFO Users - Login: joefacenda3@yahoo.com Successfully Authenticated
+2020-11-24 13:36:20.5767 INFO Users - Login: Login attempted from user admin@bookstore.com 
+2020-11-24 13:36:20.6130 WARN Users - Login: admin@bookstore.com Not Authorized
+2020-11-24 13:39:51.1139 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:39:51.1713 WARN Users - Login: joefacenda3@yahoo.com Not Authorized
+2020-11-24 13:41:04.7146 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:41:04.7421 WARN Users - Login: joefacenda3@yahoo.com Not Authorized
+2020-11-24 13:41:05.5425 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:41:05.5651 WARN Users - Login: joefacenda3@yahoo.com Not Authorized
+2020-11-24 13:41:06.0399 INFO Users - Login: Login attempted from user joefacenda3@yahoo.com 
+2020-11-24 13:41:06.0760 WARN Users - Login: joefacenda3@yahoo.com Not Authorized
+2020-11-24 13:45:06.1477 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:45:06.3988 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:45:13.2494 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:45:13.2890 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:45:15.6847 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:45:15.7070 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:45:30.3402 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:45:30.3714 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:48:06.7317 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:48:06.9658 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:58:45.3824 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:58:45.3825 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:58:45.6603 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:58:45.6672 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:58:52.8814 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:58:52.9103 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:59:01.5666 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:59:01.5908 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:59:02.4533 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 13:59:02.4735 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 13:59:47.5286 INFO Users - Login: Login attempted from user admin@bookstore.com 
+2020-11-24 13:59:47.7625 WARN Users - Login: admin@bookstore.com Not Authorized
+2020-11-24 14:01:48.0037 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 14:01:48.2515 WARN Users - Login: customer1@gmail.com Not Authorized
+2020-11-24 14:03:00.9247 INFO Users - Register: Registration attempted for joefacenda@yahoo.com 
+2020-11-24 14:03:15.9291 INFO Users - Login: Login attempted from user joefacenda@yahoo.com 
+2020-11-24 14:03:16.1534 INFO Users - Login: joefacenda@yahoo.com Successfully Authenticated
+2020-11-24 14:26:58.3677 INFO Users - Login: Login attempted from user joefacenda@yahoo.com 
+2020-11-24 14:26:58.8543 INFO Users - Login: joefacenda@yahoo.com Successfully Authenticated
+2020-11-24 14:27:38.7348 INFO Users - Register: Registration attempted for joefacenda2@yahoo.com 
+2020-11-24 14:27:56.0884 INFO Users - Login: Login attempted from user joefacenda2@yahoo.com 
+2020-11-24 14:27:56.1511 INFO Users - Login: joefacenda2@yahoo.com Successfully Authenticated
+2020-11-24 14:29:02.6897 INFO Users - Login: Login attempted from user admin@bookstore.com 
+2020-11-24 14:29:02.7188 WARN Users - Login: admin@bookstore.com Not Authorized
+2020-11-24 14:37:01.7440 INFO Users - Login: Login attempted from user admin@bookstore.com 
+2020-11-24 14:37:01.9828 WARN Users - Login: admin@bookstore.com Not Authorized
+2020-11-24 14:37:08.5145 INFO Users - Login: Login attempted from user admin@bookstore.com 
+2020-11-24 14:37:08.5482 WARN Users - Login: admin@bookstore.com Not Authorized
+2020-11-24 14:38:40.4170 INFO Users - Login: Login attempted from user admin@bookstore.com 
+2020-11-24 14:38:40.8665 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-24 14:39:07.5514 INFO Users - Login: Login attempted from user customer1@gmail.com 
+2020-11-24 14:39:07.6175 INFO Users - Login: customer1@gmail.com Successfully Authenticated
